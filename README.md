@@ -1,7 +1,3 @@
-# Workshop Website — GitHub Pages Template
-
-Static website for an ICSE 2027 workshop, styled after [ar4space.github.io](https://ar4space.github.io/2026/).
-
 ## Structure
 
 ```
@@ -13,7 +9,7 @@ assets/style.css         ← Shared stylesheet
 assets/stars.js          ← Animated star-field for hero banner
 ```
 
-## Deploying to GitHub Pages
+## Deploying GitHub Page
 
 1. Create a new GitHub repository (e.g. `my-workshop`).
 2. Upload all files preserving the folder structure above.
